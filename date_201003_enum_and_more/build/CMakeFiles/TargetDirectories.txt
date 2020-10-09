@@ -1,0 +1,5 @@
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201003_enum_and_more/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201003_enum_and_more/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201003_enum_and_more/build/log_class_project/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201003_enum_and_more/build/log_class_project/CMakeFiles/enum_test.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201003_enum_and_more/build/log_class_project/CMakeFiles/edit_cache.dir

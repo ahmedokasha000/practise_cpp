@@ -1,0 +1,6 @@
+/media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/build/CMakeFiles/prog_exe.dir
+/media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/build/cout_wrap/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/build/cout_wrap/CMakeFiles/cout_wrap.dir
+/media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/build/cout_wrap/CMakeFiles/edit_cache.dir

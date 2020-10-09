@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/cout_wrap  -O2 -g -DNDEBUG   -o CMakeFiles/prog_exe.dir/practise.cpp.o -c /media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/practise.cpp",
+  "file": "/media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/practise.cpp"
+},
+{
+  "directory": "/media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/build/cout_wrap",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/cout_wrap  -O2 -g -DNDEBUG   -o CMakeFiles/cout_wrap.dir/cout_wrap.cpp.o -c /media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/cout_wrap/cout_wrap.cpp",
+  "file": "/media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/cout_wrap/cout_wrap.cpp"
+}
+]

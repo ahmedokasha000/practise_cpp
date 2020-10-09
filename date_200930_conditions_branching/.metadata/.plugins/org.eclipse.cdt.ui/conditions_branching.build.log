@@ -1,0 +1,3 @@
+cmake --build . -- -v
+Error: could not load cache
+Build complete (1 errors, 0 warnings): /media/ahmed000/Personal/Learning/c++/after_college/date_200930_conditions_branching/conditions_branching/build/default

@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g  -rdynamic CMakeFiles/classes_tut.dir/classes_and_stuff.cpp.o  -o classes_tut 

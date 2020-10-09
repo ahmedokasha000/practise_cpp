@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g  -rdynamic CMakeFiles/scoped_ptr_run.dir/scoped_ptr.cpp.o  -o scoped_ptr_run 

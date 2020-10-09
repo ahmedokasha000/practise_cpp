@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g   CMakeFiles/interfaces_class_run.dir/interfaces.cpp.o  -o interfaces_class_run 

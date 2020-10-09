@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-6 -fPIC -g  -shared -Wl,-soname,libhello_lib.so -o libhello_lib.so CMakeFiles/hello_lib.dir/hello_lib.cpp.o 

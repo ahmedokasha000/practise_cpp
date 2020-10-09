@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10.0)
+project(strings_more VERSION 0.1.0)
+add_executable(string_run strings.cpp)
+add_executable(const_run const_practise.cpp)
+add_executable(meminit_run member_initializer_list.cpp)

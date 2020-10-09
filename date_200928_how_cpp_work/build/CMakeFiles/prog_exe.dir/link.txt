@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -O2 -g -DNDEBUG   CMakeFiles/prog_exe.dir/practise.cpp.o  -o prog_exe cout_wrap/libcout_wrap.a 

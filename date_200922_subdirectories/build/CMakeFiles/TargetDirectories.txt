@@ -1,0 +1,6 @@
+/media/ahmed000/Personal/Learning/c++/after_college/date_200922_subdirectories/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/c++/after_college/date_200922_subdirectories/build/CMakeFiles/hello_cmake3.dir
+/media/ahmed000/Personal/Learning/c++/after_college/date_200922_subdirectories/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/c++/after_college/date_200922_subdirectories/build/hello_lib/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/c++/after_college/date_200922_subdirectories/build/hello_lib/CMakeFiles/hello_lib.dir
+/media/ahmed000/Personal/Learning/c++/after_college/date_200922_subdirectories/build/hello_lib/CMakeFiles/edit_cache.dir

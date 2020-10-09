@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g   CMakeFiles/exe_run.dir/exe_1.cpp.o  -o exe_run ../lib_1/liblib_hello.a 

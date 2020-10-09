@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-x86_64-linux-gnu-g++-7"
+	BuildStamp="20201007-1547-Continuous"
+	Name="ahmed0"
+	Generator="ctest-3.10.2"
+	CompilerName="/usr/bin/x86_64-linux-gnu-g++-7"
+	CompilerVersion="7.5.0"
+	OSName="Linux"
+	Hostname="ahmed0"
+	OSRelease="5.4.0-48-generic"
+	OSVersion="#52~18.04.1-Ubuntu SMP Thu Sep 10 12:50:22 UTC 2020"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="94"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="7628"
+	TotalPhysicalMemory="23951"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2700"
+	>
+	<Build>
+		<StartDateTime>Oct 07 17:47 EET</StartDateTime>
+		<StartBuildTime>1602085663</StartBuildTime>
+		<BuildCommand>/usr/bin/cmake --build . --config "Release" -- -i</BuildCommand>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Oct 07 17:47 EET</EndDateTime>
+		<EndBuildTime>1602085663</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(how_cpp_work VERSION 0.0.1)
+add_subdirectory(cout_wrap)
+add_executable(prog_exe practise.cpp)
+target_link_libraries(prog_exe PRIVATE cout_wrap)

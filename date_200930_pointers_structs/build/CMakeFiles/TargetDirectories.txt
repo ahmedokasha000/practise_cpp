@@ -1,0 +1,5 @@
+/media/ahmed000/Personal/Learning/cpp/after_college/date_200930_pointers_structs/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_200930_pointers_structs/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_200930_pointers_structs/build/CMakeFiles/pointers_struct.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_200930_pointers_structs/build/CMakeFiles/package_source.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_200930_pointers_structs/build/CMakeFiles/package.dir

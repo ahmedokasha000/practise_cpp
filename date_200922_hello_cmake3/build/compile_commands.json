@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/media/ahmed000/Personal/Learning/c++/after_college/hello_cmake3/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6    -g   -o CMakeFiles/hello_cmake3.dir/main.cpp.o -c /media/ahmed000/Personal/Learning/c++/after_college/hello_cmake3/main.cpp",
+  "file": "/media/ahmed000/Personal/Learning/c++/after_college/hello_cmake3/main.cpp"
+},
+{
+  "directory": "/media/ahmed000/Personal/Learning/c++/after_college/hello_cmake3/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-6  -Dhello_lib_EXPORTS  -g -fPIC   -o CMakeFiles/hello_lib.dir/hello_lib.cpp.o -c /media/ahmed000/Personal/Learning/c++/after_college/hello_cmake3/hello_lib.cpp",
+  "file": "/media/ahmed000/Personal/Learning/c++/after_college/hello_cmake3/hello_lib.cpp"
+}
+]
