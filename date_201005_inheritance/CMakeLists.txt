@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10.0)
+project(inheritance_and_more VERSION 0.1.0)
+add_executable(inherit_run inheritance.cpp)
+add_executable(virtual_fn_run virtual_fn.cpp)
+add_executable(interfaces_class_run interfaces.cpp)
+add_executable(visibility_run visibility.cpp)

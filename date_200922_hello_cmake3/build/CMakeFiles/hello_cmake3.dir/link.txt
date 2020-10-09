@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-6  -g   CMakeFiles/hello_cmake3.dir/main.cpp.o  -o hello_cmake3 -Wl,-rpath,/media/ahmed000/Personal/Learning/c++/after_college/hello_cmake3/build libhello_lib.so 

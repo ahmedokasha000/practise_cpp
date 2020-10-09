@@ -1,0 +1,6 @@
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201005_inheritance/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201005_inheritance/build/CMakeFiles/visibility_run.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201005_inheritance/build/CMakeFiles/inherit_run.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201005_inheritance/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201005_inheritance/build/CMakeFiles/interfaces_class_run.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201005_inheritance/build/CMakeFiles/virtual_fn_run.dir

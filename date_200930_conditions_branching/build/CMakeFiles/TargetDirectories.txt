@@ -1,0 +1,5 @@
+/media/ahmed000/Personal/Learning/cpp/after_college/date_200930_conditions_branching/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_200930_conditions_branching/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_200930_conditions_branching/build/CMakeFiles/conditions_branching.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_200930_conditions_branching/build/CMakeFiles/package_source.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_200930_conditions_branching/build/CMakeFiles/package.dir

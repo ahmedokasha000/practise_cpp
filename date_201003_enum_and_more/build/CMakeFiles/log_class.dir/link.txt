@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblog_class.a  CMakeFiles/log_class.dir/log_class_project.cpp.o
+/usr/bin/ranlib liblog_class.a

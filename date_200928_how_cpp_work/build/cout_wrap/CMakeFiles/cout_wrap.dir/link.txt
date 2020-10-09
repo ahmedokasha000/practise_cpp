@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcout_wrap.a  CMakeFiles/cout_wrap.dir/cout_wrap.cpp.o
+/usr/bin/ranlib libcout_wrap.a

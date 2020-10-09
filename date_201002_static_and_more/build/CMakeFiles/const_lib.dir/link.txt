@@ -1,0 +1,2 @@
+/usr/bin/ar qc libconst_lib.a  CMakeFiles/const_lib.dir/const_lib.cpp.o
+/usr/bin/ranlib libconst_lib.a

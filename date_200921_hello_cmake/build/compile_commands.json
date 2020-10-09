@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/ahmed000/Personal/Learning/c++/after_college/hello_cmake/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/hello_cmake.dir/main.cpp.o -c /media/ahmed000/Personal/Learning/c++/after_college/hello_cmake/main.cpp",
+  "file": "/media/ahmed000/Personal/Learning/c++/after_college/hello_cmake/main.cpp"
+}
+]

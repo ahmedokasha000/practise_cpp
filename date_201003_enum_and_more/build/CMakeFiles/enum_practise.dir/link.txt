@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g   CMakeFiles/enum_practise.dir/enum_practise.cpp.o  -o enum_practise log_class_project/liblog_class.a 

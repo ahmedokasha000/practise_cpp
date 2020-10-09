@@ -1,0 +1,8 @@
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_static_and_more/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_static_and_more/build/CMakeFiles/static_and_more.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_static_and_more/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_static_and_more/build/CMakeFiles/const_lib.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_static_and_more/build/CMakeFiles/static_class.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_static_and_more/build/CMakeFiles/static_local.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_static_and_more/build/CMakeFiles/package.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_static_and_more/build/CMakeFiles/package_source.dir

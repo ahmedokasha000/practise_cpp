@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.10.0)
+project(control_flow VERSION 0.1.0)
+set(var2 4)
+if(var1 STREQUAL "HELLO")
+    message(STATUS "CONDITION IS MET")
+elseif(var1 EQUAL 1 AND 1 EQUAL 1)
+    message(STATUS "elseif CODNITION IS MET")
+else()
+    message(STATUS "NO CONDITION IS MET")
+endif()
+while(var1 LESS 1)
+    message(STATUS "hi")
+endwhile()
+
+
+math(EXPR var1 "1+11")
+message("${var1}")

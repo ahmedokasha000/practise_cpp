@@ -1,0 +1,5 @@
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201006_strings_more/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201006_strings_more/build/CMakeFiles/string_run.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201006_strings_more/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201006_strings_more/build/CMakeFiles/meminit_run.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201006_strings_more/build/CMakeFiles/const_run.dir

@@ -1,0 +1,8 @@
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/build/CMakeFiles/ref_vs_ptr_fn.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/build/CMakeFiles/references_and_more.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/build/CMakeFiles/classes_tut.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/build/CMakeFiles/log_class_project.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/build/CMakeFiles/package.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/build/CMakeFiles/package_source.dir

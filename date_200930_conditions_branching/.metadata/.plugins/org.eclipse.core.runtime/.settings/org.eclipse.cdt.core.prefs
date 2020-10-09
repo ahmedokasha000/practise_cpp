@@ -1,0 +1,4 @@
+config/conditions_branching/cdt.launchMode=run
+config/conditions_branching/cdt.toolChain.id=gcc-x86_64-/usr/bin/gcc
+config/conditions_branching/cdt.toolChain.type=org.eclipse.cdt.build.gcc
+eclipse.preferences.version=1

@@ -1,0 +1,4 @@
+/media/ahmed000/Personal/Learning/c++/after_college/hello_cmake3/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/c++/after_college/hello_cmake3/build/CMakeFiles/hello_cmake3.dir
+/media/ahmed000/Personal/Learning/c++/after_college/hello_cmake3/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/c++/after_college/hello_cmake3/build/CMakeFiles/hello_lib.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib_1/lib1.hpp
+
+/media/ahmed000/Personal/Learning/c++/after_college/date_200928_source_binary_directories/lib_1/lib1.cpp
+iostream
+-
+lib1.hpp
+-
+

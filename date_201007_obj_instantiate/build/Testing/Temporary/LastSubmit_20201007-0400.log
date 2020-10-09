@@ -1,0 +1,9 @@
+Upload files:
+0	Build.xml
+1	Configure.xml
+2	Test.xml
+Using drop method: http
+	Upload file: /media/ahmed000/Personal/Learning/cpp/after_college/date_201007_obj_instantiate/build/Testing/20201007-0400/Build.xml to ahmed0___Linux-x86_64-linux-gnu-g++-7___20201007-0400-Nightly___XML___Build.xml
+   Error when uploading file: /media/ahmed000/Personal/Learning/cpp/after_college/date_201007_obj_instantiate/build/Testing/20201007-0400/Build.xml
+   Error message was: Bad URL
+   Problems when submitting via HTTP

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../cout_wrap/cout_wrap.hpp
+
+/media/ahmed000/Personal/Learning/c++/after_college/date_200928_how_cpp_work/practise.cpp
+iostream
+-
+cout_wrap.hpp
+-
+

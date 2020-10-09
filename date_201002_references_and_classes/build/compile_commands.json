@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/ref_vs_ptr_fn.dir/practical_use_ref.cpp.o -c /media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/practical_use_ref.cpp",
+  "file": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/practical_use_ref.cpp"
+},
+{
+  "directory": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/references_and_more.dir/references_stuff.cpp.o -c /media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/references_stuff.cpp",
+  "file": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/references_stuff.cpp"
+},
+{
+  "directory": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/classes_tut.dir/classes_and_stuff.cpp.o -c /media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/classes_and_stuff.cpp",
+  "file": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/classes_and_stuff.cpp"
+},
+{
+  "directory": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/log_class_project.dir/log_class_project.cpp.o -c /media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/log_class_project.cpp",
+  "file": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201002_references/log_class_project.cpp"
+}
+]

@@ -1,0 +1,8 @@
+Building in: /media/ahmed000/Personal/Learning/c++/after_college/date_200930_conditions_branching/conditions_branching/build/default
+Configuring in: /media/ahmed000/Personal/Learning/c++/after_college/date_200930_conditions_branching/conditions_branching/build/default
+cmake -G Ninja -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON /media/ahmed000/Personal/Learning/c++/after_college/date_200930_conditions_branching/conditions_branching
+CMake Error: The source directory "/media/ahmed000/Personal/Learning/c++/after_college/date_200930_conditions_branching/conditions_branching" does not appear to contain CMakeLists.txt.
+Specify --help for usage, or press the help button on the CMake GUI.
+cmake --build . -- -v
+Error: could not load cache
+Build complete (1 errors, 0 warnings): /media/ahmed000/Personal/Learning/c++/after_college/date_200930_conditions_branching/conditions_branching/build/default

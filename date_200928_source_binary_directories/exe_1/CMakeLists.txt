@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10.0)
+project(exe_1 VERSION 0.2.0)
+add_executable(exe_run exe_1.cpp)
+target_link_libraries(exe_run PRIVATE lib_hello)
+#include("${CMAKE_SOURCE_DIR}/project_variables.cmake")
+show_vars()

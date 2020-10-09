@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/hello_cmake3.dir/main.cpp.o  -o hello_cmake3 hello_lib/libhello_lib.a 

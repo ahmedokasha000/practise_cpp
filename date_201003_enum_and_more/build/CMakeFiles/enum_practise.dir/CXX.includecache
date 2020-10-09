@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../log_class_project/log_class_project.hpp
+
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201003_enum_and_more/enum_practise.cpp
+iostream
+-
+log_class_project.hpp
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201003_enum_and_more/log_class_project.hpp
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhello_lb.a  CMakeFiles/hello_lb.dir/lib1.cpp.o
+/usr/bin/ranlib libhello_lb.a

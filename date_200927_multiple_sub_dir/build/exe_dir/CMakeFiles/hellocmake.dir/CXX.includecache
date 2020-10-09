@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../hello_lib/hello_lib.hpp
+
+/media/ahmed000/Personal/Learning/c++/after_college/date_200927_multiple_sub_dir/exe_dir/main.cpp
+iostream
+-
+hello_lib.hpp
+/media/ahmed000/Personal/Learning/c++/after_college/date_200927_multiple_sub_dir/exe_dir/hello_lib.hpp
+
