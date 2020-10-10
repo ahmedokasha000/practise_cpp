@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g   CMakeFiles/smart_pointers_run.dir/smart_pointers.cpp.o  -o smart_pointers_run 
