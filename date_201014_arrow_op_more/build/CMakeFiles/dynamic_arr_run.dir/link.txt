@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -g   CMakeFiles/dynamic_arr_run.dir/dynamic_arrays.cpp.o  -o dynamic_arr_run 

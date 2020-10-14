@@ -67,16 +67,16 @@ rebuild_cache/fast: rebuild_cache
 
 .PHONY : rebuild_cache/fast
 
-# Special rule for the target edit_cache
-edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
-.PHONY : edit_cache
+# Special rule for the target package
+package: preinstall
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool..."
+	/usr/bin/cpack --config ./CPackConfig.cmake
+.PHONY : package
 
-# Special rule for the target edit_cache
-edit_cache/fast: edit_cache
+# Special rule for the target package
+package/fast: package
 
-.PHONY : edit_cache/fast
+.PHONY : package/fast
 
 # Special rule for the target package_source
 package_source:
@@ -89,16 +89,16 @@ package_source/fast: package_source
 
 .PHONY : package_source/fast
 
-# Special rule for the target package
-package: preinstall
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool..."
-	/usr/bin/cpack --config ./CPackConfig.cmake
-.PHONY : package
+# Special rule for the target edit_cache
+edit_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	/usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+.PHONY : edit_cache
 
-# Special rule for the target package
-package/fast: package
+# Special rule for the target edit_cache
+edit_cache/fast: edit_cache
 
-.PHONY : package/fast
+.PHONY : edit_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -157,6 +157,46 @@ smart_pointers_run: cmake_check_build_system
 smart_pointers_run/fast:
 	$(MAKE) -f CMakeFiles/smart_pointers_run.dir/build.make CMakeFiles/smart_pointers_run.dir/build
 .PHONY : smart_pointers_run/fast
+
+#=============================================================================
+# Target rules for targets named copying_run
+
+# Build rule for target.
+copying_run: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 copying_run
+.PHONY : copying_run
+
+# fast build rule for target.
+copying_run/fast:
+	$(MAKE) -f CMakeFiles/copying_run.dir/build.make CMakeFiles/copying_run.dir/build
+.PHONY : copying_run/fast
+
+copying_and_constructor_copy.o: copying_and_constructor_copy.cpp.o
+
+.PHONY : copying_and_constructor_copy.o
+
+# target to build an object file
+copying_and_constructor_copy.cpp.o:
+	$(MAKE) -f CMakeFiles/copying_run.dir/build.make CMakeFiles/copying_run.dir/copying_and_constructor_copy.cpp.o
+.PHONY : copying_and_constructor_copy.cpp.o
+
+copying_and_constructor_copy.i: copying_and_constructor_copy.cpp.i
+
+.PHONY : copying_and_constructor_copy.i
+
+# target to preprocess a source file
+copying_and_constructor_copy.cpp.i:
+	$(MAKE) -f CMakeFiles/copying_run.dir/build.make CMakeFiles/copying_run.dir/copying_and_constructor_copy.cpp.i
+.PHONY : copying_and_constructor_copy.cpp.i
+
+copying_and_constructor_copy.s: copying_and_constructor_copy.cpp.s
+
+.PHONY : copying_and_constructor_copy.s
+
+# target to generate assembly for a file
+copying_and_constructor_copy.cpp.s:
+	$(MAKE) -f CMakeFiles/copying_run.dir/build.make CMakeFiles/copying_run.dir/copying_and_constructor_copy.cpp.s
+.PHONY : copying_and_constructor_copy.cpp.s
 
 obj_lifetime_more.o: obj_lifetime_more.cpp.o
 
@@ -219,11 +259,15 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... edit_cache"
-	@echo "... package_source"
-	@echo "... package"
 	@echo "... obj_lifetime_more"
 	@echo "... smart_pointers_run"
+	@echo "... copying_run"
+	@echo "... package"
+	@echo "... package_source"
+	@echo "... edit_cache"
+	@echo "... copying_and_constructor_copy.o"
+	@echo "... copying_and_constructor_copy.i"
+	@echo "... copying_and_constructor_copy.s"
 	@echo "... obj_lifetime_more.o"
 	@echo "... obj_lifetime_more.i"
 	@echo "... obj_lifetime_more.s"

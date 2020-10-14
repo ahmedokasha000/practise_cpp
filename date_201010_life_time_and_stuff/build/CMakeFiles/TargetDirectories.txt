@@ -1,6 +1,7 @@
 /media/ahmed000/Personal/Learning/cpp/after_college/date_201010_life_time_and_stuff/build/CMakeFiles/rebuild_cache.dir
-/media/ahmed000/Personal/Learning/cpp/after_college/date_201010_life_time_and_stuff/build/CMakeFiles/edit_cache.dir
-/media/ahmed000/Personal/Learning/cpp/after_college/date_201010_life_time_and_stuff/build/CMakeFiles/package_source.dir
-/media/ahmed000/Personal/Learning/cpp/after_college/date_201010_life_time_and_stuff/build/CMakeFiles/package.dir
 /media/ahmed000/Personal/Learning/cpp/after_college/date_201010_life_time_and_stuff/build/CMakeFiles/obj_lifetime_more.dir
 /media/ahmed000/Personal/Learning/cpp/after_college/date_201010_life_time_and_stuff/build/CMakeFiles/smart_pointers_run.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201010_life_time_and_stuff/build/CMakeFiles/copying_run.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201010_life_time_and_stuff/build/CMakeFiles/package.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201010_life_time_and_stuff/build/CMakeFiles/package_source.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201010_life_time_and_stuff/build/CMakeFiles/edit_cache.dir

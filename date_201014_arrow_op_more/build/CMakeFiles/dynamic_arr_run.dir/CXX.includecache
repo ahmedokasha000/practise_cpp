@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201014_arrow_op_more/dynamic_arrays.cpp
+iostream
+-
+vector
+-
+

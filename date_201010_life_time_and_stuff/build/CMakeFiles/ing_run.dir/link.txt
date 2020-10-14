@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g   CMakeFiles/ing_run.dir/copying_and_constructor_copy.cpp.o  -o ing_run 

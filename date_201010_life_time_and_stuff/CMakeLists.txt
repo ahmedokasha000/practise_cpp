@@ -4,4 +4,4 @@ project(obj_lifetime_more VERSION 0.1.0)
 
 add_executable(obj_lifetime_more obj_lifetime_more.cpp)
 add_executable(smart_pointers_run smart_pointers.cpp)
-
+add_executable(copying_run copying_and_constructor_copy.cpp)
