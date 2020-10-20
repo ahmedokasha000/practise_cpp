@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tuple_run.dir/tuples_practise.cpp.o  -o tuple_run 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/optimiz_vec.dir/optimize_vectors_cpy.cpp.o  -o optimiz_vec 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/run_test.dir/test1.cpp.o  -o run_test ../lib_print/liblogl.a 

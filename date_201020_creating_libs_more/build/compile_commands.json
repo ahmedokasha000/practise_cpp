@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/tuple_run.dir/tuples_practise.cpp.o -c /media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/tuples_practise.cpp",
+  "file": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/tuples_practise.cpp"
+},
+{
+  "directory": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/build/lib_print",
+  "command": "/usr/bin/c++   -I/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/lib_print  -g   -o CMakeFiles/logl.dir/lib_print.cpp.o -c /media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/lib_print/lib_print.cpp",
+  "file": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/lib_print/lib_print.cpp"
+},
+{
+  "directory": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/build/code_test",
+  "command": "/usr/bin/c++   -I/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/lib_print  -g   -o CMakeFiles/run_test.dir/test1.cpp.o -c /media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/code_test/test1.cpp",
+  "file": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/code_test/test1.cpp"
+}
+]

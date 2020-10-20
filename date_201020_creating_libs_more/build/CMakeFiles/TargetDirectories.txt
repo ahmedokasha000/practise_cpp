@@ -1,0 +1,9 @@
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/build/CMakeFiles/tuple_run.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/build/lib_print/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/build/lib_print/CMakeFiles/logl.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/build/lib_print/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/build/code_test/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/build/code_test/CMakeFiles/run_test.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_creating_libs_more/build/code_test/CMakeFiles/edit_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblogl.a  CMakeFiles/logl.dir/lib_print.cpp.o
+/usr/bin/ranlib liblogl.a
