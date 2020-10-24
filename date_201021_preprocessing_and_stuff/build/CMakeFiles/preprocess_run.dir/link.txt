@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/preprocess_run.dir/preprocess_practise.cpp.o  -o preprocess_run 

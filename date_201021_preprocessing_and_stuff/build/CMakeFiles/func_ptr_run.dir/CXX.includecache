@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201021_preprocessing_and_stuff/function_pointers_pr.cpp
+iostream
+-
+

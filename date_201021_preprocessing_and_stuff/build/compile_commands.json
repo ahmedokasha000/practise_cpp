@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201021_preprocessing_and_stuff/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/preprocess_run.dir/preprocess_practise.cpp.o -c /media/ahmed000/Personal/Learning/cpp/after_college/date_201021_preprocessing_and_stuff/preprocess_practise.cpp",
+  "file": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201021_preprocessing_and_stuff/preprocess_practise.cpp"
+},
+{
+  "directory": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201021_preprocessing_and_stuff/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/func_ptr_run.dir/function_pointers_pr.cpp.o -c /media/ahmed000/Personal/Learning/cpp/after_college/date_201021_preprocessing_and_stuff/function_pointers_pr.cpp",
+  "file": "/media/ahmed000/Personal/Learning/cpp/after_college/date_201021_preprocessing_and_stuff/function_pointers_pr.cpp"
+}
+]

@@ -1,0 +1,6 @@
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201021_preprocessing_and_stuff/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201021_preprocessing_and_stuff/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201021_preprocessing_and_stuff/build/CMakeFiles/package_source.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201021_preprocessing_and_stuff/build/CMakeFiles/package.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201021_preprocessing_and_stuff/build/CMakeFiles/preprocess_run.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201021_preprocessing_and_stuff/build/CMakeFiles/func_ptr_run.dir

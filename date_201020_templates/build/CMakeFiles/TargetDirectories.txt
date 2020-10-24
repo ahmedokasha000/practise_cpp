@@ -1,0 +1,5 @@
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_templates/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_templates/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_templates/build/CMakeFiles/templates.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_templates/build/CMakeFiles/package_source.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201020_templates/build/CMakeFiles/package.dir
