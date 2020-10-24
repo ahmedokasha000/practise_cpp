@@ -28,5 +28,6 @@ BaseClass inst2(4,log_number);
 BaseClass inst1(2,log_str);
 void(*fn_ptr)(char*);
 fn_ptr=log_mess;
+auto fn_ptr2= log_mess;
 fn_ptr("Hi, you dirty bits");
 }

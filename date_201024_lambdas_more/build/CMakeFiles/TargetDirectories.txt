@@ -1,0 +1,8 @@
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201024_lambdas_more/build/CMakeFiles/rebuild_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201024_lambdas_more/build/CMakeFiles/edit_cache.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201024_lambdas_more/build/CMakeFiles/namespace_run.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201024_lambdas_more/build/CMakeFiles/threads_run.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201024_lambdas_more/build/CMakeFiles/lambdas_run.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201024_lambdas_more/build/CMakeFiles/timing_run.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201024_lambdas_more/build/CMakeFiles/package.dir
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201024_lambdas_more/build/CMakeFiles/package_source.dir

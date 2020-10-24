@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -O3 -DNDEBUG   CMakeFiles/namespace_run.dir/namespace_practise.cpp.o  -o namespace_run 

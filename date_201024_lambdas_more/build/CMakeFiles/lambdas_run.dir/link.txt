@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -O3 -DNDEBUG   CMakeFiles/lambdas_run.dir/lambda_practise.cpp.o  -o lambdas_run 
