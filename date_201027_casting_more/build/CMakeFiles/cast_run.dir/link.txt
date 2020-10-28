@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/cast_run.dir/cast_practise.cpp.o  -o cast_run 

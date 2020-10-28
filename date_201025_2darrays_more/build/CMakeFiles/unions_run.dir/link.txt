@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g   CMakeFiles/unions_run.dir/unions_practise.cpp.o  -o unions_run 

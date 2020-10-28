@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/ahmed000/Personal/Learning/cpp/after_college/date_201027_casting_more/cond_action_breakpoints_practise.cpp
+iostream
+-
+string
+-
+
